@@ -1,4 +1,4 @@
-**Project Introduction: AI Personal Trainer**
+#**Project Introduction: AI Personal Trainer**
 
 In today's fast-paced world, maintaining a healthy lifestyle has become more critical than ever. However, it can be challenging to find the time and guidance needed to achieve your fitness and nutrition goals. That's where our innovative project comes into play – the AI Personal Trainer, powered by Chat GPT and the Textbase framework.
 
