@@ -4,8 +4,9 @@ In today's fast-paced world, maintaining a healthy lifestyle has become more cri
 
 **Project Overview:**
 - **Project Name:** AI Personal Trainer
-- **Collaboration:** Created in collaboration with Textbase, a cutting-edge framework for building chatbots using Natural Language Processing (NLP) and Machine Learning (ML).
+- **Collaboration:** Created in collaboration with Textbase, a cutting-edge framework for building chatbots using Natural Language Processing (NLP) and Machine Learning (ML). (https://docs.textbase.ai/)
 - **Objective:** The primary objective of this project is to provide individuals with a personalized fitness and nutrition experience. The AI Personal Trainer, named 'Miki,' is here to help you achieve your health and fitness goals.
+- **Project Video Link:** https://drive.google.com/file/d/11Z_oIlLcA_Gi9B-lJVPd2lSUGhpntM3a/view?usp=sharing
 
 **How it Works:**
 The AI Personal Trainer, 'Miki,' acts as a dedicated fitness and nutrition expert. Here's how the project unfolds:
